@@ -1,3 +1,11 @@
+------------------------------------------------------------------------------------------------
+MYSTIC GAME ENGINE (MGE) LICENSE
+------------------------------------------------------------------------------------------------
+
+Mystic Game Engine (MGE for short) is dual licensed under MIT and GPLv2+ Licenses.
+End-User can choose the most appropriate license for their need.
+
+------------------------------------------------------------------------------------------------
 MIT License
 
 Copyright (c) 2025 Suryansh Singh
@@ -19,3 +27,33 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+------------------------------------------------------------------------------------------------
+--- End of MIT LICENSE ---
+
+------------------------------------------------------------------------------------------------
+GPLv2+ License
+
+Copyright (C) 2025  Suryansh Singh
+
+This program is free software; you can redistribute it and/or modify it under the terms of the
+GNU General Public License, either version 2, or any later version.
+
+The full text of the GPLv2 license can be found here:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+You should have received a copy of the GNU General Public License along with this program. 
+If not, see the link above or write to the Free Software Foundation, Inc., 51 Franklin Street,
+Fifth Floor, Boston, MA 02110-1301 USA.
+------------------------------------------------------------------------------------------------
+--- End of GPLv2+ License ---
+
+------------------------------------------------------------------------------------------------
+Note on Third-Party Libraries
+
+This project utilizes several third-party libraries, each under its own license. Please 
+refer to the `Licenses` folder for details on their specific terms.
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+END OF MYSTIC GAME ENGINE (MGE) LICENSE
+------------------------------------------------------------------------------------------------
