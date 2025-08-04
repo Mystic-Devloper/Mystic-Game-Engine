@@ -2,7 +2,7 @@
 
 A **Vulkan** Based Game Engine written in **C++**.
 
-[ScreenShot](https://raw.githubusercontent.com/mystic-devloper/Mystic-Game-Engine/refs/heads/main/screenshot.png)
+[ScreenShot](https://raw.githubusercontent.com/mystic-devloper/Mystic-Game-Engine/refs/heads/main/screenshot.jpeg)
 
 ## 🌟 About Mystic Game Engine
 The **Mystic Game Engine** (MGE for short) is a modern, high-performance
