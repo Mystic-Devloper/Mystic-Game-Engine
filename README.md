@@ -80,16 +80,21 @@ MGE is dual licensed under the MIT and GNU Public License v2 or later. See `LICE
 
 MGE uses open-source third which are under:
 1.  {fmt}  - Under MIT License
-2.  scnlib - Under Apache License, version 2.0
+2.  scnlib - Under Apache, version 2.0 License
 3.  GLFW   - Under zlib/libpng License
 4.  GLM    - Under MIT License
 5.  STB Libs  - Under dual public domain and MIT Licenses
 6.  miniaudio - Under dual public domain and MIT No Attribute Licenses
 7.  ASSIMP    - Under BSD 3-clause License
 8.  ImGUI     - Under MIT License
-9.  Vulkan SDK   - Under mix of MIT and Apache License
-11. Vulkan-Hpp   - Under Apache License, version 2.0
-10. Vk-bootstrap - Under MIT License
-11. VMA          - Under MIT License
+9.  Vulkan-Headers - Under MIT or Apache, version 2.0 License
+10. Vulkan-Loader  - Under Apache, version 2.0 License
+12. Vulkan-Tools   - Under Apache, version 2.0 License
+13. Vulkan-ValidationLayers - Under Apache, version 2.0 License
+14. SPIR-V Tools - Under Apache, version 2 License
+15. glslang      - Under Many Licenses, primary MIT and Apache, version 2.0 Licenses
+16. Vulkan-Hpp   - Under Apache License, version 2.0
+17. Vk-Bootstrap - Under MIT License
+18. VMA          - Under MIT License
 
 For detailed licenses, see `Licenses` folder.
