@@ -20,8 +20,10 @@ gathering.
 * **Modern C++**: Written with C++20 standard for clean, efficient and maintainable
 codebase.
 
-* **Custom IO**: Utilizes a custom IO built upon {fmt} and scnlib for fast data input
-and output.
+* **Custom IO**: Utilizes a custom IO built for fast data input and output.
+
+* **Custom Memory Management**: Utilizes custom memory management for fast memory and low
+fragmentation.
 
 * **Quality Audio**: Utilizes miniaudio for audio playback, supporting vast number of formats,
 (including, mp3, flac, wav and, midi).
