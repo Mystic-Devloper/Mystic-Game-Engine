@@ -48,7 +48,7 @@ to its limit. So, it can have some minor to major bugs.
 
 ## 🚀 Getting Started
 To build and run the Mystic Game Engine, you will need the following prerequisites:
-* **C++ Compiler**: A C++ Compiler that supports C++20 or later (e.g., GCC, MSVC, Clang).
+* **C++ Compiler**: A C++ Compiler that supports C++17/20 or later (e.g., GCC, MSVC, Clang).
 * **CMake**: CMake Version 3.21 or higher.
 * **GLFW Library**: Necessary for window management and user input.
 * **Vulkan SDK**: Necessary for render pipeline and rendering logic.
